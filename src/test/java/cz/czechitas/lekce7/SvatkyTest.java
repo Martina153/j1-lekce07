@@ -35,7 +35,6 @@ class SvatkyTest {
     @Test
     void jeVSeznamu() {
         //TODO Otestovat, že najde v seznamu existující jméno a nenajde neexistující jméno
-        // Přidání několika jmen do seznamu
         Svatky svatky = new Svatky();
         // Přidání několika jmen do seznamu
         svatky.pridejSvatek("Jan", 1, 1);
